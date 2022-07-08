@@ -1,2 +1,2 @@
 # Algoexpert
-Algoexpert_practoce
+Algoexpert_practice
